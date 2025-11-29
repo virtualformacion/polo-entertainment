@@ -5,7 +5,8 @@ const USERS = [
     { username: "juliana1445g@outlook.com", password: "12345", expiresAt: new Date("2025-12-01") },
     { username: "juanda78345679@outlook.com", password: "12345", expiresAt: new Date("2025-11-30") },
     { username: "Shaira254ydgtd@outlook.com", password: "javier1234", expiresAt: new Date("2025-12-09") },
-    { username: "wsde42p@outlook.com", password: "javier1234", expiresAt: new Date("2025-12-09") }
+    { username: "wsde42p@outlook.com", password: "javier1234", expiresAt: new Date("2025-12-09") },
+    { username: "netaliii678234f@outlook.com", password: "javier1234", expiresAt: new Date("2025-12-15") }
 ];
 
 const MAX_ATTEMPTS = 300000;
