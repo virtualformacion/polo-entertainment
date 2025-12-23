@@ -9,7 +9,6 @@ const USERS = [
     { username: "Teresa333torre@outlook.com", password: "linda1234", expiresAt: new Date("2025-12-20") },
     { username: "Solyulio888@outlook.com", password: "linda1234", expiresAt: new Date("2026-01-07") },
     { username: "fiona56g@outlook.com", password: "jhon1234", expiresAt: new Date("2025-12-28") },
-    { username: "hellen65g@outlook.com", password: "jhon1234", expiresAt: new Date("2025-12-26") },
     { username: "3115111388", password: "jhon1234", expiresAt: new Date("2026-01-06") }
 ];
 
